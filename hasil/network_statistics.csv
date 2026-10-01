@@ -1,0 +1,10 @@
+Metric,Value
+Number of interactions,59835.0
+Number of nodes,1899.0
+Number of unique edges,20296.0
+Network density,0.005631048674611617
+Average in-degree,10.687730384412848
+Average out-degree,10.687730384412848
+Weakly connected components,4.0
+Strongly connected components,601.0
+Duplicate records,37.0
